@@ -17,7 +17,7 @@ from deebot_client.capabilities import (
     CapabilitySetEnable,
     CapabilitySettings,
     CapabilitySetTypes,
-    CapabilityStation,
+    CapabilityStation, 
     CapabilityStats,
     CapabilityWater,
     DeviceType,
